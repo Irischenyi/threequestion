@@ -1,0 +1,1 @@
+define(["jquery"],function(n){var i=function(){console.log("this is main")};return i});
