@@ -1,1 +1,0 @@
-define(["jquery","filldata"],function(o,e){var l=function(){o.get("../../ejs/module1.ejs",function(o){console.log(o)}),console.log("---===getsjsmodule===---"),e.fill()};return l}),console.log(22222);

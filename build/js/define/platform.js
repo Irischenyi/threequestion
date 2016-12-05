@@ -1,1 +1,0 @@
-define(["jquery"],function(n){var o=function(){console.log("this is platforms")};return o});

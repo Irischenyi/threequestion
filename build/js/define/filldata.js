@@ -1,1 +1,0 @@
-define(["jquery","getdata"],function(n){var e={};return e.fill=function(){console.log("ssss")},e});
